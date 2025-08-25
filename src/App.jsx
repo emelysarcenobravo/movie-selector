@@ -13,6 +13,7 @@ const App = () => {
         <MovieList type="popular" title="Popular"/>
         <MovieList type="top_rated" title="Top Rated"/>
         <MovieList type="upcoming" title="Upcoming"/>
+         <MovieList type="now_playing" title="Now Playing"/>
 
 
       </main>
