@@ -4,7 +4,7 @@
 #### React JS Tutorial - Build Movie React App with API, Filter, Sort & Dark Mode (https://www.youtube.com/watch?v=3Nb4DrpnUks) by Code Bless You
 
 #### Features: 
-##### View a selection of movies from The Movie Database (TMDB) 
-##### Select from a range of movies in different categories such as Now Playing, Popular, Top Rated, and Upcoming Releases
-##### Filter movies by their ratings 
-##### Sort movies by their Release Date and Rating
+#####   1. View a selection of movies from The Movie Database (TMDB) 
+#####   2. Select from a range of movies in different categories such as Now Playing, Popular, Top Rated, and Upcoming Releases
+#####   3. Filter movies by their ratings 
+#####   4 Sort movies by their Release Date and Rating
